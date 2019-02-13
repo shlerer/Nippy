@@ -1178,11 +1178,6 @@ var Nippy = function(options) {
 	renderStart(_this.el, options);
 }
 
-//nippy:model
-
-// computed - https://vuejs.org/v2/guide/computed.html
-
-// Watch - https://vuejs.org/v2/guide/computed.html
 
 
 
