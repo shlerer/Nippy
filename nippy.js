@@ -7,8 +7,6 @@ var Nippy = function() {
 	const TEXT_NODE = 3;
 	const DOCUMENT_FRAGMENT_NODE = 11;
 	  
-//	var cache = {};
-	
 	var cache = {
 		stored: {},
 		
